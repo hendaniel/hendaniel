@@ -1,24 +1,10 @@
-![Visits Badge](https://badges.pufler.dev/visits/hendaniel/hendaniel)
+<!--![Visits Badge](https://badges.pufler.dev/visits/hendaniel/hendaniel)-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daniel-martinez-coding/)
 
-Hey there 👋
+Hi there! 👋
 
-I’m Daniel, a JavaScript lover and web developer passionate, Im so courios about last trends in code design, security, and best practices. I enjoy teaching and mentoring people!
+I’m Daniel, a JavaScript lover and web developer passionate, Im so courios about last trends in code design, security, and best practices. I enjoy teaching and mentoring!
 
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/hendaniel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendaniel&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/hendaniel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hendaniel&theme=gruvbox&include_all_commits=true&hide_rank=true&show_icons=true&line_height=27&count_private=true" alt="Daniel's GitHub Stats" />
-</a>
-
-<br>
 
 ## 💼 Skills
 
@@ -45,6 +31,21 @@ I’m Daniel, a JavaScript lover and web developer passionate, Im so courios abo
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=AzureDevops&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=4AB197)
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/hendaniel">
+  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendaniel&theme=gruvbox&layout=compact&langs_count=10" />
+</a>
+
+<a href="https://github.com/hendaniel">
+  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=hendaniel&theme=gruvbox&include_all_commits=true&hide_rank=true&show_icons=true&line_height=27&count_private=true" alt="Daniel's GitHub Stats" />
+</a>
+
+<br>
 
 <br>
