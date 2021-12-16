@@ -3,7 +3,7 @@
 
 Hi there! 👋
 
-I’m Daniel, a JavaScript lover and web developer passionate, Im so courios about last trends in code design, security, and best practices. I enjoy teaching and mentoring!
+I’m Daniel, a JavaScript fan and web developer passionate, Im so courious about last trends in code design, security, and best practices. I enjoy teaching and mentoring!
 
 
 ## 💼 Skills
