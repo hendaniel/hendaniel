@@ -1,12 +1,9 @@
 <!--![Visits Badge](https://badges.pufler.dev/visits/hendaniel/hendaniel)-->
 <!--[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daniel-martinez-coding/)-->
 
-Hi there! 👋
+**Hi there!**, I’m Daniel, software developer, specially a Javascript one. I enjoy learning about last trends in code design, security, best practices, as well as mentoring and teaching frontend stuff. Currently Im working as a React developer creating web components for a publishing firm across several brands.
 
-I’m Daniel, software developer, Javascript fan. I enjoy learning about last trends in code design, security, best practices, as well as mentoring and teaching frontend stuff. 
-
-
-## 💼 Skills
+## Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
@@ -33,18 +30,4 @@ I’m Daniel, software developer, Javascript fan. I enjoy learning about last tr
 ![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=AzureDevops&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=4AB197)
 
-## &#x1f4c8; GitHub Stats
 
-<br>
-
-<a href="https://github.com/hendaniel">
-  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendaniel&theme=gruvbox&layout=compact&langs_count=10" />
-</a>
-
-<a href="https://github.com/hendaniel">
-  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=hendaniel&theme=gruvbox&include_all_commits=true&hide_rank=true&show_icons=true&line_height=27&count_private=true" alt="Daniel's GitHub Stats" />
-</a>
-
-<br>
-
-<br>
