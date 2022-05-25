@@ -1,8 +1,8 @@
 <!--![Visits Badge](https://badges.pufler.dev/visits/hendaniel/hendaniel)-->
 <!--[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daniel-martinez-coding/)-->
 
-**Hi there!**, I’m Daniel, software developer, specially a Javascript one. I enjoy learning about last trends in code design, security, best practices, as well as mentoring and teaching frontend stuff. Currently Im working as a React developer creating web components for a publishing firm across several brands.
-
+**Hi there!**, I’m Daniel, a software developer, specially a Javascript one. I enjoy learning about last trends in code design, security, best practices, as well as mentoring and teaching frontend stuff. Currently Im working as a JavaScript developer creating web components and node apps for a publishing firm across several brands.
+<!--
 ## Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -29,5 +29,4 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=AzureDevops&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=4AB197)
-
-
+-->
